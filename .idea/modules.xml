@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CH25_CAMERA.iml" filepath="$PROJECT_DIR$/.idea/modules/CH25_CAMERA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CH25_CAMERA.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CH25_CAMERA.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CH25_CAMERA.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CH25_CAMERA.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CH25_CAMERA.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CH25_CAMERA.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CH25_CAMERA.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CH25_CAMERA.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
